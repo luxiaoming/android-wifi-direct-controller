@@ -1,0 +1,5 @@
+android-wifi-direct-controller
+
+Android Eclipse Projects for Wifi-Direct Client-Server Communications.
+
+The server autoconnects to the client, which sends numbers back to the server.
