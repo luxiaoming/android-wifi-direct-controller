@@ -1,0 +1,9 @@
+.metadata/
+*/bin/
+*/gen/
+*/.settings/
+*/.classpath
+*/.project
+*/libs/
+*/proguard-project.txt
+*/project.properties
